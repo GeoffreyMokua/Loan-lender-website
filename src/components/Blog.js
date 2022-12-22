@@ -1,4 +1,5 @@
 import React from 'react'
+import '.././pages/blog.css';
 
 function Blog() {
   return (

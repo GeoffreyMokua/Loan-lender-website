@@ -1,4 +1,5 @@
 import React from 'react'
+import '.././pages/services.css';
 
 function Services() {
   return (
